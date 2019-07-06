@@ -3,8 +3,37 @@
   <component name="ChangeListManager">
     <list default="true" id="0c12251a-87b1-49f4-9b0e-0610987fda4f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_bold/generator_config.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_bold/raleway-bold-demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_bold/raleway-bold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_bold/raleway-bold-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_bold/specimen_files/grid_12-825-55-15.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_bold/specimen_files/specimen_stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_bold/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_italic/generator_config.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_italic/raleway-italic-demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_italic/raleway-italic-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_italic/raleway-italic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_italic/raleway-italic-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_italic/specimen_files/grid_12-825-55-15.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_italic/specimen_files/specimen_stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_italic/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_light/generator_config.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_light/raleway-light-demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_light/raleway-light-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_light/raleway-light-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_light/specimen_files/grid_12-825-55-15.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_light/specimen_files/specimen_stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_light/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_regular/generator_config.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_regular/raleway-regular-demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_regular/raleway-regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_regular/raleway-regular-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_regular/specimen_files/grid_12-825-55-15.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_regular/specimen_files/specimen_stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font_regular/stylesheet.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html.html" beforeDir="false" afterPath="$PROJECT_DIR$/html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,17 +49,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+            <state relative-caret-position="-188">
+              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/style.css">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="166" column="10" lean-forward="true" selection-start-line="166" selection-start-column="10" selection-end-line="166" selection-end-column="10" />
+            <state relative-caret-position="236">
+              <caret line="277" column="1" lean-forward="true" selection-start-line="277" selection-start-column="1" selection-end-line="277" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -51,8 +80,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/html.html" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/html.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -66,7 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-102" />
     <option name="y" value="145" />
     <option name="width" value="1386" />
@@ -94,6 +124,11 @@
             <path>
               <item name="Warsztat-1-strona-internetowa" type="b2602c69:ProjectViewProjectNode" />
               <item name="Warsztat-1-strona-internetowa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztat-1-strona-internetowa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Warsztat-1-strona-internetowa" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -141,17 +176,19 @@
       <workItem from="1562321530290" duration="879000" />
       <workItem from="1562322487632" duration="15860000" />
       <workItem from="1562363107363" duration="8487000" />
+      <workItem from="1562371725676" duration="346000" />
+      <workItem from="1562403857501" duration="7136000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25226000" />
+    <option name="totallyTimeSpent" value="32708000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -174,31 +211,20 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/font_italic/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="4" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/font_bold/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/font_italic/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/font_bold/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/style.css" />
     <entry file="file://$PROJECT_DIR$/html.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+        <state relative-caret-position="-188">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="166" column="10" lean-forward="true" selection-start-line="166" selection-start-column="10" selection-end-line="166" selection-end-column="10" />
+        <state relative-caret-position="236">
+          <caret line="277" column="1" lean-forward="true" selection-start-line="277" selection-start-column="1" selection-end-line="277" selection-end-column="1" />
         </state>
       </provider>
     </entry>
