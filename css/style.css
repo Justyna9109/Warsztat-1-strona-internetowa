@@ -24,7 +24,7 @@
 .container{
     width:1200px;
     margin:0 auto;
-    border: 1px solid red;
+    position: relative;
 }
 /* nagłówek */
 
@@ -273,17 +273,16 @@ h3{
 }
 
 .circel{
-    background-color: lightgrey;
-    position: relative;
+    background-color: rgba(211,211,211,.3);
 }
 
 .box,.box1,.box2{
-    height: 400px;
+    height: 450px;
     width:25%;
-    border:1px solid grey;
+    border:1px solid rgba(211,211,211,.5);
     position: relative;
     background-color: whitesmoke;
-    padding: 20px;
+    margin-bottom: 60px;
 }
 
 .box{
@@ -308,7 +307,7 @@ h3{
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    box-shadow: 0 0 0 2px grey;
+    box-shadow: 0 0 0 2px rgba(211,211,211,.5);
     border: 15px solid #fff;
     top: -26px;
     left: calc(50% - 26px);
@@ -337,14 +336,22 @@ h3{
     font-size: 25px;
 }
 
+.basic,.basic2{
+    color:#00b3ff;
+}
+
+.basic1{
+    color:white;
+}
+
 .border,.border2{
-    border:1px solid grey;
+    border:1px solid rgba(211,211,211,.6);
     width: 110px;
     height: 110px;
     border-radius: 50%;
     margin-top: 20px;
     position: relative;
-    left:80px;
+    left:95px;
 }
 
 .border1{
@@ -355,14 +362,15 @@ h3{
     border-radius: 50%;
     margin-top: 20px;
     position: relative;
-    left:80px;
+    left:95px;
 }
 
 .price{
     position: absolute;
-    top:120px;
-    right:110px;
+    top:100px;
+    right:115px;
     text-align: center;
+    color:grey;
 }
 
 .pl{
@@ -376,7 +384,8 @@ h3{
 .title1{
     text-transform: uppercase;
     margin-top: 50px;
-    margin-left: 60px;
+    margin-left: 20px;
+    padding: 40px;
 }
 
 .title1:after{
@@ -386,5 +395,231 @@ h3{
     position: absolute;
     width: 300px;
     top:70px;
-    left:210px;
+    left:60px;
+}
+
+.square{
+    width:298px;
+    height: 40px;
+    border:1px solid white;
+    margin-left: 0;
+    background-color: rgba(211,211,211,.4);
+    position: relative;
+    margin-top: 20px;
+}
+
+.buy{
+    position: absolute;
+    bottom:205px;
+    right: 50px;
+    font-size: 23px;
+}
+
+.service{
+    position: absolute;
+    font-size: 23px;
+    bottom: 165px;
+    right: 120px;
+}
+
+.square_plus{
+    width:298px;
+    height: 40px;
+    border:1px solid white;
+    margin-left: 0;
+    background-color:white;
+    position: relative;
+    margin-top: 20px;
+}
+
+.square_plus_six{
+    width:298px;
+    height: 40px;
+    border:1px solid white;
+    margin-left: 0;
+    background-color:rgba(211,211,211,.4);
+    position: relative;
+}
+
+.square_one{
+    width:298px;
+    height:40px;
+    border:1px solid white;
+    margin-left: 0;
+    background-color: rgba(211,211,211,.2);
+    position: relative;
+}
+
+.square_plus1{
+    width:298px;
+    height: 40px;
+    border:1px solid white;
+    margin-left: 0;
+    background-color: white;
+    position: relative;
+}
+
+.gwarantion{
+    position: absolute;
+    bottom:125px;
+    right: 70px;
+    font-size: 23px;
+}
+
+.ask{
+    font-size: 23px;
+    bottom:87px;
+    right:60px;
+    position: absolute;
+}
+
+.square1,.square1_plus{
+    width: 110px;
+    height: 40px;
+    background-color: #00b3ff;
+    border-radius: 10%;
+}
+
+.square1{
+    margin-top: 20px;
+}
+
+.square1_plus{
+    margin-top: 100px;
+}
+
+.square1_{
+    width: 110px;
+    height: 40px;
+    background-color:white;
+    margin-top: 60px;
+    border-radius: 10%;
+}
+
+.square1,.square1_,.square1_plus{
+    position: relative;
+    left:100px;
+}
+
+.more_more,.more_more1{
+    text-transform: uppercase;
+    bottom:30px;
+    left: 120px;
+    position: absolute;
+}
+
+.more_more1{
+    color:#00b3ff;
+}
+
+.more_more{
+    color:white;
+}
+
+.flex{
+    display: flex;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    margin-top: 30px;
+}
+
+.over{
+    display: flex;
+    flex-direction:column;
+}
+
+.nam,.mail{
+    height: 60px;
+    width: 600px;
+    margin-left: 60px;
+    border:1px solid #00b3ff;
+}
+
+.answer{
+    height: 160px;
+    width: 600px;
+    margin-left: 60px;
+    margin-top: 30px;
+    border:1px solid deepskyblue;
+    margin-bottom: 40px;
+}
+
+.mail{
+    margin-top: 30px;
+}
+
+.nam{
+    margin-top: 20px;
+}
+
+.contakt{
+    text-transform: uppercase;
+    margin-top: 40px;
+    margin-left: 60px;
+}
+
+.check{
+    font-size: 20px;
+    text-align: left;
+}
+
+.send{
+    width: 300px;
+    height: 60px;
+    background-color: #00b3ff;
+    color: white;
+    border-radius: 5%;
+    position: relative;
+    top: 60px;
+    right: 20px;
+}
+
+.last{
+    display: flex;
+    justify-content: space-around;
+}
+
+.send_send{
+    font-size: 28px;
+    text-transform: uppercase;
+    position: absolute;
+    bottom:15px;
+    right: 100px;
+}
+.one{
+    display: flex;
+}
+
+.copy{
+    text-decoration: none;
+    margin-left: 40px;
+    color: grey;
+    padding: 20px;
+}
+
+.logo{
+    padding: 10px;
+    margin-left: 350px;
+}
+
+.sit{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: grey;
+    padding: 20px;
+    margin-left: 30px;
+}
+
+.contakt:after{
+    content: "";
+    height: 10px;
+    border-bottom:8px solid #00b3ff;
+    position: absolute;
+    width: 300px;
+    top:20px;
+    left:60px;
 }
